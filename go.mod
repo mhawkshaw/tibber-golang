@@ -1,4 +1,4 @@
-module github.com/tskaard/tibber-golang
+module github.com/sjurtf/tibber-golang
 
 require (
 	github.com/gorilla/websocket v1.4.0
